@@ -16,7 +16,6 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/thiago9852/thiago9852/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/thiago9852/thiago9852/output/github-contribution-grid-snake.svg">
 </picture>
-<img height="150em" width="80em"src="https://i.gifer.com/HTvN.gif">
 
 <h2 align="center" >⚒️ Linguagens-Frameworks-Ferramentas ⚒️</h2>
 <br>
@@ -35,5 +34,6 @@
 </div>
 
 <h1 align="center">
+<img height="150em" width="80em"src="https://i.gifer.com/HTvN.gif">
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=obrigado+pela+atenção!;" />
 </h1>
