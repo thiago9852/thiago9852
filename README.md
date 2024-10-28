@@ -2,8 +2,21 @@
 
 <div>
     <a href="https://github.com/thiago9852">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thiago9852&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiago9852&layout=compact&langs_count=16&theme=dracula"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thiago9852&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiago9852&layout=compact&langs_count=16&theme=midnight-purple"/>
+</div>
+
+<div style="display: inline_block"><br>
+    <img align="center" width="40" height="40" alt="thiago-figma" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
+    <img align="center" width="40" height="40" alt="thiago-symfony" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/symfony/symfony-original.svg" />
+    <img align="center" width="40" height="40" alt="thiago.php" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/phpstorm/phpstorm-original.svg" />
+    <img align="center" width="40" height="40" alt="thiago.html" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+    <img align="center" width="40" height="40" alt="thiago.css" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+    <img align="center" width="40" height="40" alt="thiago.sql" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
+    <img align="center" width="40" height="40" alt="thiago.java" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+    <img align="center" width="40" height="40" alt="thiago.bts" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
+    <img align="center" width="40" height="40" alt="thiago.git" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" />
+    <img align="right" width="50" height="60" alt="glaceon" src="https://media.giphy.com/media/n2dNEwQ1NIpgI/giphy.gif" />
 </div>
 
 ##
