@@ -1,13 +1,3 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/thiago9852/thiago9852/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/thiago9852/thiago9852/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/thiago9852/thiago9852/output/github-contribution-grid-snake.svg">
-</picture>
-
-
-
-
-
 <h1 align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=olá!+👋;+me+chamo+Thiago!;" />
 </h1>
@@ -20,6 +10,12 @@
     <img  align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=thiago9852&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
     <img  align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiago9852&layout=compact&langs_count=16&theme=midnight-purple"/>
 </div>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/thiago9852/thiago9852/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/thiago9852/thiago9852/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/thiago9852/thiago9852/output/github-contribution-grid-snake.svg">
+</picture>
 
 <h2 align="center" >⚒️ Linguagens-Frameworks-Ferramentas ⚒️</h2>
 <br>
