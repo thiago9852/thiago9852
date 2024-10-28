@@ -16,7 +16,7 @@
     <img align="center" width="40" height="40" alt="thiago.java" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
     <img align="center" width="40" height="40" alt="thiago.bts" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
     <img align="center" width="40" height="40" alt="thiago.git" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" />
-    <img align="right" width="50" height="60" alt="glaceon" src="https://media.giphy.com/media/n2dNEwQ1NIpgI/giphy.gif" />
+    <img align="right" width="100" height="150" alt="glaceon" src="https://64.media.tumblr.com/6ca36223c76bf5fd34c9374de455b48e/91c6d2bc2b1e595f-f4/s400x600/a244301143526e9a31d6d32fd880c4aa4417afc1.gifv" />
 </div>
 
 ##
