@@ -16,6 +16,7 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/thiago9852/thiago9852/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/thiago9852/thiago9852/output/github-contribution-grid-snake.svg">
 </picture>
+<img height="150em" width="80em"src="https://i.gifer.com/HTvN.gif">
 
 <h2 align="center" >⚒️ Linguagens-Frameworks-Ferramentas ⚒️</h2>
 <br>
