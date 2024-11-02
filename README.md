@@ -1,6 +1,11 @@
-<h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=olá!+👋;+me+chamo+Thiago!;" />
-</h1>
+<div>
+    <h1>
+        <img height="100em" width="80em" src="https://i.gifer.com/HTvN.gif">
+        <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=olá!+👋;+me+chamo+Thiago!;" />
+    </h1>
+</div>
+
+
 
 <h2 align="center" >⚡Stats⚡</h2>
 <br>
@@ -34,6 +39,6 @@
 </div>
 
 <h1 align="center">
-<img height="150em" width="80em"src="https://i.gifer.com/HTvN.gif">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=obrigado+pela+atenção!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=obrigado+pela+atenção!;" />
+    <img height="100em" width="80em" src="https://www.bing.com/th/id/OGC.68144f5c3c43bff5a04b95006c10cf30?pid=1.7&rurl=https%3a%2f%2fmedia.tenor.com%2fCWztr7njAysAAAAC%2fglaceon-idle.gif&ehk=y9mNCo3j%2bOoY6NjE0OiIiwO1Pj0Y03Z%2bDYolGkiC4I8%3d" />
 </h1>
