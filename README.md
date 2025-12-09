@@ -3,8 +3,6 @@
         <img height="60" src="https://i.gifer.com/HTvN.gif">
         <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Olá!+👋;+Me+chamo+Thiago!;" />
     </h1>
-    
-    <!-- Pequena bio (Opcional - edite conforme necessário) -->
     <p>Desenvolvedor apaixonado por PHP e o ecossistema Symfony.</p>
 </div>
 
@@ -12,12 +10,22 @@
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <div align="center">
-    <a href="https://github.com/thiago9852">
-        <img height="180" src="https://github-readme-stats.vercel.app/api?username=thiago9852&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-    </a>
-    <a href="https://github.com/thiago9852">
-        <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiago9852&layout=compact&langs_count=8&theme=midnight-purple"/>
-    </a>
+  <!-- Estatísticas Gerais -->
+  <a href="https://github.com/thiago9852">
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=thiago9852&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  </a>
+  
+  <!-- Linguagens mais usadas -->
+  <a href="https://github.com/thiago9852">
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiago9852&layout=compact&langs_count=8&theme=midnight-purple"/>
+  </a>
+</div>
+<br>
+<div align="center">
+  <!-- Sequência de dias (Streak) -->
+  <a href="https://github.com/thiago9852">
+    <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=thiago9852&theme=midnight-purple&date_format=j%20M%5B%20Y%5D"/>
+  </a>
 </div>
 
 <br>
