@@ -14,7 +14,7 @@
     <img height="180" src="https://readme-stats-seven-sandy.vercel.app/api?username=thiago9852&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
   </a>
   <a href="https://github.com/thiago9852">
-    <img height="180" src="https://readme-stats-seven-sandy.vercel.app/api/top-langs/?username=thiago9852&layout=compact&langs_count=8&theme=midnight-purple&count_private=true"/>
+    <img height="180" src="https://readme-stats-seven-sandy.vercel.app/api/top-langs/?username=thiago9852&langs_count=7&theme=midnight-purple&count_private=true&layout=compact"/>
   </a>
 </div>
 
@@ -33,7 +33,7 @@
 
 <h2 align="center">⚒️ Tecnologias ⚒️</h2>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=symfony,phpstorm,php,bootstrap,html,css,mysql,vscode,github,figma,git&perline=11" />
+  <img src="https://skillicons.dev/icons?i=symfony,phpstorm,php,bootstrap,html,css,javascript,mysql,vscode,github,figma,git&perline=11" />
 </div>
 
 <br>
@@ -58,5 +58,3 @@
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Obrigado+pela+atenção!;" />
-    <img height="80" src="https://media.tenor.com/CWztr7njAysAAAAC/glaceon-idle.gif" /> <!-- Link direto mais limpo -->
-</h1>
