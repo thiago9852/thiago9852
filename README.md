@@ -10,9 +10,12 @@
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <div align="center">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thiago9852&theme=dracula" />
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=thiago9852&theme=dracula" />
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=thiago9852&theme=dracula" />
+  <a href="https://github.com/thiago9852">
+    <img height="180" src="https://readme-stats-seven-sandy.vercel.app/api?username=thiago9852&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  </a>
+  <a href="https://github.com/thiago9852">
+    <img height="180" src="https://readme-stats-seven-sandy.vercel.app/api/top-langs/?username=thiago9852&layout=compact&langs_count=8&theme=midnight-purple&count_private=true"/>
+  </a>
 </div>
 
 <br>
