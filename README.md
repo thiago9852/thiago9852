@@ -10,22 +10,9 @@
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <div align="center">
-  <!-- Estatísticas Gerais -->
-  <a href="https://github.com/thiago9852">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=thiago9852&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  </a>
-  
-  <!-- Linguagens mais usadas -->
-  <a href="https://github.com/thiago9852">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiago9852&layout=compact&langs_count=8&theme=midnight-purple"/>
-  </a>
-</div>
-<br>
-<div align="center">
-  <!-- Sequência de dias (Streak) -->
-  <a href="https://github.com/thiago9852">
-    <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=thiago9852&theme=midnight-purple&date_format=j%20M%5B%20Y%5D"/>
-  </a>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thiago9852&theme=dracula" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=thiago9852&theme=dracula" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=thiago9852&theme=dracula" />
 </div>
 
 <br>
