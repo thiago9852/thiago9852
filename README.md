@@ -16,18 +16,11 @@
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
+    srcset="https://github-readme-stats.vercel.app/api?username=thiago9852&show_icons=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
   <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
 </picture>
-    
-  <a href="https://github.com/thiago9852">
-    <img height="180" src="https://readme-stats-seven-sandy.vercel.app/api?username=thiago9852&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  </a>
-  <a href="https://github.com/thiago9852">
-    <img height="180" src="https://readme-stats-seven-sandy.vercel.app/api/top-langs/?username=thiago9852&langs_count=7&theme=midnight-purple&count_private=true&layout=compact"/>
-  </a>
 </div>
 
 <br>
