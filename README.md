@@ -3,7 +3,7 @@
         <img height="60" src="https://i.gifer.com/HTvN.gif">
         <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Olá!+👋;+Me+chamo+Thiago!;" />
     </h1>
-    <p>Desenvolvedor apaixonado por PHP e o ecossistema Symfony.</p>
+    <p>Desenvolvedor apaixonado por análise de dados e ecossistema PHP/Symfony.</p>
 </div>
 
 <br>
