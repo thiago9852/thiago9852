@@ -40,12 +40,6 @@
 
 <h2 align="center">📱 Contato 📱</h2>
 <div align="center"> 
-  <a href="https://instagram.com/imthiiago" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-  </a>
-  <a href="https://discord.com/users/952899652913594368" target="_blank"> <!-- Link corrigido para users -->
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
-  </a> 
   <a href="mailto:dev.thiagodferreira@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
